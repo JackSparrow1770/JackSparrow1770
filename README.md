@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fahad Siddique Faisal</h1>
-<h3 align="center">A dedicated Machine learning and AI enthusiast graduated from CUET with a strong foundation in AI, machine learning, and software development. Skilled in Python, C/C++, React, and NLP frameworks, with hands-on experience curating datasets for training LLMs at Outlier AI and developing innovative projects like a RAG-based chatbot, Question Generation system and bilingual sarcasm detection systems.I excel at crafting elegant digital experiences and I am proficient in various programming languages and technologies.</h3>
+<h3 align="center">AI & ML Enthusiast || Certified Data analyst || Software development || Developing ML solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksparrow1770&label=Profile%20views&color=0e75b6&style=flat" alt="jacksparrow1770" /> </p>
 
 - 🔭 I’m currently working on **𝗙𝗶𝗻𝗲-𝗧𝘂𝗻𝗶𝗻𝗴 𝗬𝗢𝗟𝗢𝘃𝟭𝟮𝗻 𝗳𝗼𝗿 𝗙𝗶𝗿𝗲 & 𝗦𝗺𝗼𝗸𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻**
 
-- 🌱 I’m currently learning **AI Applications, ReactJS and NodeJS**
+- 🌱 I’m currently learning **AI Applications Development**
 
 - 👯 I’m looking to collaborate on **ML, DL, NLP Projects**
-
-- 👨‍💻 All of my projects are available at [Github.com/Jacksparrow1770](Github.com/Jacksparrow1770)
-
-- 💬 Ask me about **AI, C++, React, Javescript, Mongodb, NodeJS**
 
 - 📫 How to reach me **Fahadsid1770@gmail.com**
 
